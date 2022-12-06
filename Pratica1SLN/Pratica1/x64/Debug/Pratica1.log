@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\Matheus\source\repos\Pratica1SLN\Pratica1\Origem.cpp(13,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Pratica1.vcxproj -> C:\Users\Matheus\source\repos\Pratica1SLN\x64\Debug\Pratica1.exe
